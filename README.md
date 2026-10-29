@@ -36,4 +36,5 @@ Communication
 Miscellaneous
 -------------
 
+  * [Obsidian](https://obsidian.md)
   * [Spotify](https://open.spotify.com)
