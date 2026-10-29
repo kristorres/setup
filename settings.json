@@ -1,0 +1,28 @@
+{
+    "editor.fontFamily": "'Monaspace Neon', 'SF Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": "'calt', 'liga', 'ss01', 'ss02', 'ss03', 'ss06', 'ss09'",
+    "editor.insertSpaces": true,
+    "editor.rulers": [80],
+    "editor.tabSize": 4,
+    "[yaml]": {
+        "editor.tabSize": 2
+    },
+    "explorer.compactFolders": false,
+    "explorer.openEditors.minVisible": 12,
+    "explorer.openEditors.sortOrder": "alphabetical",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "git.allowForcePush": true,
+    "npm.enableRunFromFolder": true,
+    "svelte.ask-to-enable-ts-plugin": false,
+    "terminal.integrated.defaultLocation": "editor",
+    "terminal.integrated.fontFamily": "Monaspace Neon NF",
+    "terminal.integrated.lineHeight": 1.25,
+    "terminal.integrated.tabs.enabled": true,
+    "workbench.colorTheme": "TWICE Lights: Minatozaki",
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.editor.showTabs": "single",
+    "workbench.list.openMode": "doubleClick",
+    "workbench.startupEditor": "none"
+}
