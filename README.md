@@ -1,6 +1,10 @@
 Setup
 =====
 
+```sh
+./install.sh
+```
+
 Browsers
 --------
 
