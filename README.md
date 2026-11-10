@@ -15,6 +15,7 @@ Package Managers
 
   * [Node.js (and npm)](https://nodejs.org)
   * [pnpm](https://pnpm.io)
+  * [CMake](https://cmake.org)
   * [Homebrew](https://brew.sh)
 
 CLI Tools & Utilities
@@ -28,6 +29,7 @@ Development
 
   * [Visual Studio Code](https://code.visualstudio.com)
   * [Xcode](https://developer.apple.com/xcode)
+  * [Qt Creator](https://www.qt.io/development/download-qt-installer-oss)
   * [iTerm2](https://iterm2.com)
   * [Postman](https://www.postman.com)
 

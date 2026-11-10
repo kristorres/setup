@@ -28,6 +28,9 @@ cp ./.npmrc ~/.npmrc
 printf "\n${MAGENTA}Installing pnpm...${RESET}\n"
 curl -fsSL https://get.pnpm.io | sh -
 
+printf "\n${MAGENTA}Installing CMake...${RESET}\n"
+brew install cmake
+
 printf "\n${BLUE}Installing Oh My ZSH...${RESET}\n"
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
